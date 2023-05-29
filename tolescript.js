@@ -1,1 +1,3 @@
-
+function showNow() {
+ alert('Hello'); 
+}
