@@ -1,3 +1,21 @@
-body {
-background : #fff;
+.navbar-fixed-top {
+z-index: 99999 !important;
+max-width: 1170px !important;
+margin: auto !important;
+}
+
+.navbar-collapse .row .col-sm-7 {
+    margin-left: 150px !important;
+}
+
+footer#footer {
+    background-color: #000;
+    border-top: 1px solid yellow;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 300;
+    font-size: 12px;
+    border-top-style: groove;
+ width: 1170px;
+    margin: auto;
+box-shadow: rgb(0 0 0 / 90%) 0 32px 62px -2px, rgb(0 0 0 / 90%) 0 30px 32px -3px;
 }
