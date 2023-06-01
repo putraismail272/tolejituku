@@ -97,12 +97,19 @@ box-shadow: inset 0 1px 0 var(--gold-two) !important;
 .panel-blue{background: linear-gradient(95deg, #131313 0%, #131313 100%) !important;padding:15px!important;margin-bottom:15px!important;color:#fff!important;border:none;border-bottom:0px solid red!important;border-radius:20px!important}
 .panel-blue hr{border-top:none!important}
 .panel-blue h3{text-transform:uppercase}
-.results {
-    background-color: #222222!important;
-    display: inline-block!important;
-    border-radius: 2px!important;
-    margin-bottom: 0!important;
-    padding: 0!important;
+#slider-hasil .slider {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  /* Optional gap between grid items */
+}
+
+#slider-hasil .slider > * {
+  display: flex;
+  flex-direction: column;
+
+  padding: 0 0 0 0 !important;
+  background: black !important;
 }
 	
 .pool-name {
