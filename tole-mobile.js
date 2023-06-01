@@ -49,8 +49,7 @@ splide.mount();
 // Popup 
 window.addEventListener('DOMContentLoaded', () => {
 		if (window.location.pathname === '/m/' || window.location.pathname === '/m/index.php') {
-			$('body').append(`
-		  <div id="pop-up-container" onclick="close_pop_up()">
+			$('body').append('<div id="pop-up-container" onclick="close_pop_up()">
 			<div id="bg-black" class="fade-in"></div>
   
 			<div id="pop-up-wrapper" class="swirl-in-fwd gray-bg">
@@ -58,8 +57,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				alt="tolejitu"/></a>
 			 <button onclick="close_pop_up()">Klik di sini untuk tutup</button>
 			</div>
-		  </div>
-		`);
+		  </div>');
 
 			setTimeout(close_pop_up, 10000);
 
