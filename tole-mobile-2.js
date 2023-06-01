@@ -48,15 +48,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 splide.mount(); 
 			
-			$('body').append('<div id="pop-up-container" onclick="close_pop_up()">
-			<div id="bg-black" class="fade-in"></div>
-  
-			<div id="pop-up-wrapper" class="swirl-in-fwd gray-bg">
-			  <a href="#" target=""><img src="https://iili.io/HrjMQOQ.png"
-				alt="tolejitu"/></a>
-			 <button onclick="close_pop_up()">Klik di sini untuk tutup</button>
-			</div>
-		  </div>');
+			$('body').append('<div id="pop-up-container" onclick="close_pop_up()"><div id="bg-black" class="fade-in"></div><div id="pop-up-wrapper" class="swirl-in-fwd gray-bg"><a href="#" target=""><img src="https://iili.io/HrjMQOQ.png" alt="tolejitu"/></a><button onclick="close_pop_up()">Klik di sini untuk tutup</button></div></div>');
 
 			setTimeout(close_pop_up, 10000);
 
