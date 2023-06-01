@@ -79,6 +79,15 @@ box-shadow: rgb(0 0 0 / 90%) 0 32px 62px -2px, rgb(0 0 0 / 90%) 0 30px 32px -3px
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) { content:url("https://i.postimg.cc/NfY8b2T8/SICBODICE.jpg") !important;}/*Sicbo Dice*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(48) { content:url("https://i.postimg.cc/FsZy6FgM/SUWIT.jpg") !important;}/*Suwit*/
 
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(49) {  content:url("https://i.postimg.cc/T1T9yKJc/GMW.jpg") !important;}/*GMW*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(50) {  content:url("https://i.postimg.cc/jddctJ5x/Habanero.jpg") !important;}/*HABANERO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(51) {  content:url("https://i.postimg.cc/g2xK6F81/IDN-Slot.jpg") !important;}/*IDNSLOT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(52) {  content:url("https://i.postimg.cc/tgPt23r5/microgaming.jpg") !important;}/*Microgaming*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(53) {  content:url("https://i.postimg.cc/XJkK0V6B/PG-soft.jpg") !important;}/*PG SOFT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(54) {  content:url("https://i.postimg.cc/cC1RxVd9/pragmatic.jpg") !important;}/*pragmatic*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(55) { content:url("https://i.postimg.cc/286QPRc3/TTG.jpg") !important;}/*TTG*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(56) { content:url("https://i.postimg.cc/XYj8NBYN/MONOPOLY.jpg") !important;}/*monopoly*/
+
 
 .owl-carousel.bankscroll  {
 margin-top: -103px;
