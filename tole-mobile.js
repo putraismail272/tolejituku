@@ -35,8 +35,11 @@ $('<div class="list-menu-mobile"><a href="https://prediksitogeljitu.org/?page=bu
 $('<div style="text-align: center; width: 100%;"><table style="width: 100%; margin-left: auto; margin-right: auto;"><tr><td colspan="4" style="width: 100%; text-align: center;">Klik untuk hubungi customer service kami :</td></tr><tr><td colspan="1" style="width: 25%; text-align: center;"><a href="#wa" target="_blank"><img src="https://i.postimg.cc/rmV0xx7z/WA-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="#fb" target="_blank"><img src="https://i.postimg.cc/05tmGXkv/FB-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="#instgram" target="_blank"><img src="https://i.postimg.cc/2SWZDz4j/Instagram-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="#twitter" target="_blank"><img src="https://i.postimg.cc/DzKbftgr/TW-TJ.gif" style="width: 100%; height: auto;" /></a></td></tr></table></div>').appendTo('.wrapper2');
 
 
-
-var splide = new Splide( '.splide', {
+// Popup 
+window.addEventListener('DOMContentLoaded', () => {
+		if (window.location.pathname === '/m/' || window.location.pathname === '/m/index.php') {
+			
+			var splide = new Splide( '.splide', {
     type   : 'loop',
     perPage: 1,
     autoplay : true,
@@ -44,11 +47,7 @@ var splide = new Splide( '.splide', {
 } );
 
 splide.mount(); 
-
-
-// Popup 
-window.addEventListener('DOMContentLoaded', () => {
-		if (window.location.pathname === '/m/' || window.location.pathname === '/m/index.php') {
+			
 			$('body').append('<div id="pop-up-container" onclick="close_pop_up()">
 			<div id="bg-black" class="fade-in"></div>
   
