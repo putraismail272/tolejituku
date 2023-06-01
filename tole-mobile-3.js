@@ -1,5 +1,3 @@
-$('.note.left.underline').text('Versi WAP').removeClass("underline");
-
 $(window).on('load', function () {
      $('.smartb1').addClass('shead');
      $('.smartb2').addClass('sindex');
@@ -38,7 +36,7 @@ $('<div style="text-align: center; width: 100%;"><table style="width: 100%; marg
 // Popup 
 window.addEventListener('DOMContentLoaded', () => {
 		if (window.location.pathname === '/m/' || window.location.pathname === '/m/index.php') {
-			
+			$('.note.left.underline').text('Versi WAP').removeClass("underline");
 			var splide = new Splide( '.splide', {
     type   : 'loop',
     perPage: 1,
