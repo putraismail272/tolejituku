@@ -1,0 +1,432 @@
+.navbar-fixed-top {
+z-index: 99999 !important;
+max-width: 1170px !important;
+margin: auto !important;
+}
+
+.navbar-fixed-top .container {
+background-color : #0f1422 !important; 
+}
+.navbar-collapse .row .col-sm-7 {
+    margin-left: 150px !important;
+}
+
+.section .container {
+    background: #151d31 !important;
+    background-image:none !important;
+box-shadow: rgb(0 0 0 / 100%) 0 32px 62px -2px, rgb(0 0 0 / 100%) 0 30px 32px -3px !important;
+}
+
+footer#footer {
+    background-color: #151d31 !important;
+    border-top: 1px solid #fff !important;
+padding: 0.9rem !important;
+    color: rgba(255, 255, 255, 1) !important;
+    font-weight: 300 !important;
+    font-size: 12px !important;
+    border-top-style: groove !important;
+ width: 1170px !important;
+    margin: auto !important;
+box-shadow: rgb(0 0 0 / 90%) 0 32px 62px -2px, rgb(0 0 0 / 90%) 0 30px 32px -3px !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {  content:url("https://i.postimg.cc/NFVcGv1B/bullseye.jpg") !important;}/*Bullseye*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {  content:url("https://i.postimg.cc/yYgKQWHd/bursa.jpg") !important;}/*Bursa */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {  content:url("https://i.postimg.cc/xdRVJzKs/california.jpg") !important;}/*California*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {  content:url("https://i.postimg.cc/pTLbDLCP/cambodia.jpg") !important;}/*Cambodia */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {  content:url("https://i.postimg.cc/JnYwKCYZ/carolina.jpg") !important;}/*Carolina */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {  content:url("https://i.postimg.cc/j2Bp0Qbj/china.jpg") !important;}/*China*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {  content:url("https://i.postimg.cc/hPdF8wLQ/florida.jpg") !important;}/*Florida*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {  content:url("https://i.postimg.cc/RZ7jyHbM/hongkon.jpg") !important;}/*Hongkong */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) { content:url("https://i.postimg.cc/v818j07b/jepang.jpg") !important;}/*Japan */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {  content:url("https://i.postimg.cc/g2pYxdC2/kentucky.jpg") !important;}/*KENTUCKY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {  content:url("https://i.postimg.cc/C1R03Kqm/malta.jpg") !important;}/*malta */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {  content:url("https://i.postimg.cc/fR5hkd78/newyork.jpg") !important;}/*new York*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {  content:url("https://i.postimg.cc/3JTMB1nL/oregon.jpg") !important;}/*oregon*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {  content:url("https://i.postimg.cc/7ZKpqkDc/pcso.jpg") !important;}/*PCSO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {  content:url("https://i.postimg.cc/zvYQxDSL/singapore.jpg") !important;}/*Singapore*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {  content:url("https://i.postimg.cc/9XyKrTCy/sydney.jpg") !important;}/*Sydney*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {  content:url("https://i.postimg.cc/VL1TM6kp/taiwan.jpg") !important;}/*Taiwan*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {  content:url("https://i.postimg.cc/jS3kG44Y/thai4d.jpg") !important;}/*Thai4d */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {  content:url("https://i.postimg.cc/vBfqxFFG/totomacau.jpg") !important;}/*Totomacau*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {  content:url("https://i.postimg.cc/rwHQhFq8/toto-macau-5d.jpg") !important;}/*Totomacau5d*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {  content:url("https://i.postimg.cc/T1T9yKJc/GMW.jpg") !important;}/*GMW*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {  content:url("https://i.postimg.cc/jddctJ5x/Habanero.jpg") !important;}/*HABANERO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {  content:url("https://i.postimg.cc/g2xK6F81/IDN-Slot.jpg") !important;}/*IDNSLOT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {  content:url("https://i.postimg.cc/tgPt23r5/microgaming.jpg") !important;}/*Microgaming*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {  content:url("https://i.postimg.cc/XJkK0V6B/PG-soft.jpg") !important;}/*PG SOFT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {  content:url("https://i.postimg.cc/cC1RxVd9/pragmatic.jpg") !important;}/*pragmatic*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) { content:url("https://i.postimg.cc/286QPRc3/TTG.jpg") !important;}/*TTG*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {  content:url("https://i.postimg.cc/8PhKzVd4/3D-SHIO.jpg") !important;}/*3D Shio*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {  content:url("https://i.postimg.cc/mgBdc68s/5D-BALL.jpg") !important;}/*5D Ball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {  content:url("https://i.postimg.cc/FHpT0gBJ/12D.jpg") !important;}/*12D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {  content:url("https://i.postimg.cc/fLGCMHJ1/24D.jpg") !important;}/*24D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {  content:url("https://i.postimg.cc/Y2F8dwP7/24D-SPIN.jpg") !important;}/*24D Spin*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {  content:url("https://i.postimg.cc/632zJs5d/BACCARAT.jpg") !important;}/*Baccarat*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {  content:url("https://i.postimg.cc/Fz0ZzjSz/BILLIARD.jpg") !important;}/*Billlard*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {  content:url("https://i.postimg.cc/3wb9cr78/DICE-6.jpg") !important;}/*DICE 6*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {  content:url("https://i.postimg.cc/ZqqVHBGs/DRAGON-TIGER.jpg") !important;}/*Dragon Tiger*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {  content:url("https://i.postimg.cc/YqwRVscW/HEADTAIL.jpg") !important;}/*head Tail*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) { content:url("https://i.postimg.cc/rFCjLNcY/IDN-4-STAND.jpg") !important;}/*IDN 4 Stand*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) { content:url("https://i.postimg.cc/XYj8NBYN/MONOPOLY.jpg") !important;}/*monopoly*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) { content:url("https://i.postimg.cc/nh31XVX4/NIU-NIU.jpg") !important;}/*Niu Niu*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) { content:url("https://i.postimg.cc/k5DvKrSk/OGLOK.jpg") !important;}/*Oglok*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) { content:url("https://i.postimg.cc/Xvhcg2cX/POKER-DICE.jpg") !important;}/*Poker Dice*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(43) { content:url("https://i.postimg.cc/SsML1WDd/RACE-BALL.jpg") !important;}/*Race Ball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(44) { content:url("https://i.postimg.cc/NFv635nc/RED-WHITE.jpg") !important;}/*Red White*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(45) { content:url("https://i.postimg.cc/L5kt2mdZ/ROLET.jpg") !important;}/*Rollet*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(46) { content:url("https://i.postimg.cc/Df1dqPWy/SICBOBALL.jpg") !important;}/*Sicbo ball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) { content:url("https://i.postimg.cc/NfY8b2T8/SICBODICE.jpg") !important;}/*Sicbo Dice*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(48) { content:url("https://i.postimg.cc/FsZy6FgM/SUWIT.jpg") !important;}/*Suwit*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(49) { content:url("https://i.postimg.cc/rFCjLNcY/IDN-4-STAND.jpg") !important;}/*IDN 4 Stand*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(50) { content:url("https://i.postimg.cc/XYj8NBYN/MONOPOLY.jpg") !important;}/*monopoly*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(51) { content:url("https://i.postimg.cc/nh31XVX4/NIU-NIU.jpg") !important;}/*Niu Niu*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(52) { content:url("https://i.postimg.cc/k5DvKrSk/OGLOK.jpg") !important;}/*Oglok*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(53) { content:url("https://i.postimg.cc/Xvhcg2cX/POKER-DICE.jpg") !important;}/*Poker Dice*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(54) { content:url("https://i.postimg.cc/SsML1WDd/RACE-BALL.jpg") !important;}/*Race Ball*/
+
+
+
+.owl-carousel.bankscroll  {
+margin-top: -103px;
+margin-left: 29rem !important;
+height: 40px !important;
+}
+
+.section .container {
+padding: 0 20px 0px 20px !important;
+}
+
+.owl-theme .owl-controls .owl-page span {
+    display: none !important;
+    width: 12px !important;
+    height: 12px !important;
+    margin: 5px 7px !important;
+    filter: Alpha(Opacity=50) !important;
+    opacity: 0.5 !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    border-radius: 20px !important;
+    background: #869791 !important;
+}
+
+.results h4 {
+color: #fff !important;
+
+}
+
+.results {
+background-image: linear-gradient(0deg, rgba(176,3,3,1) 0%, rgba(97,0,0,1) 100%) !important;
+border: 1px solid #b00303 !important;
+color: #fff !important;
+}
+
+.results-detail {
+    width: 100% !important;
+    display: inline-block !important;
+    background: rgb(48 0 0) !important;
+    padding: 5px 15px !important;
+    color: #ffffff !important;
+    -webkit-transition: all 0.25s linear !important;
+    -moz-transition: all 0.25s linear !important;
+    transition: all 0.25s linear !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -ms-border-radius: 4px !important;
+    -o-border-radius: 4px !important;
+    border-radius: 4px !important;
+}
+
+.news-detail {
+    width: 100% !important;
+    height: 143px !important;
+    display: inline-block !important;
+    background: rgb(48 0 0) !important;
+    padding: 5px 15px !important;
+    color: #ffffff !important;
+    -webkit-transition: all 0.25s linear !important;
+    -moz-transition: all 0.25s linear !important;
+    transition: all 0.25s linear !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -ms-border-radius: 4px !important;
+    -o-border-radius: 4px !important;
+    border-radius: 4px !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
+button.btn-theme, .btn.btn-theme {
+    box-shadow: inset 1px 0px 0px 0px #00a2ff, inset 0px 1px 0px 0px rgb(25, 125, 205), inset 0px 0px 0px 2px #0b97df, 3px 3px 3px 1px rgba(0, 0, 0, 0.2) !important;
+    background-image: -webkit-linear-gradient( 90deg, rgb(45,89,181) 0%, rgb(0,174,239) 100%) !important;
+    border: 1px solid #c08716 !important;
+    border-width: 0 !important;
+    border-radius: 15px 2px 15px 5px !important;
+    font-weight: bolder !important;
+    text-shadow: 0px 1px 9px rgba(0, 0, 0, 0.5);
+}
+
+.news-head {
+    background: linear-gradient(to bottom, #d2152a 0%,#e5293e 50%,#aa0000 50%,#aa0000 50%,#af0e0e 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e20000', endColorstr='#4c0000',GradientType=0 ) !important;
+    border-radius: 0px 0px 0px 10px !important;
+    border-bottom: 2px solid #fff !important;
+}
+
+.news-head > h5 {
+    text-transform:  uppercase !important;
+}
+
+.news-body {
+    background: linear-gradient(to bottom, #d2152a 0%,#e5293e 50%,#aa0000 50%,#aa0000 50%,#af0e0e 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e20000', endColorstr='#4c0000',GradientType=0 ) !important;
+    border-radius: 0px 0px 10px 0px !important;
+    border-bottom: 2px solid #fff !important;
+}
+
+ul#liscroll {
+  top: 6px !important;
+      text-transform: uppercase !important;
+
+}
+
+#snackbar {
+            visibility: hidden;
+            min-width: 250px;
+            margin-left: -150px;
+            background: linear-gradient(to bottom, #ff0000 0%, #380000 100%) !important;
+            color: white;
+            text-align: center;
+            border-radius: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+line-height: 1rem;
+            text-shadow: 1px 1px 5px rgb(0,0,0);
+            position: fixed;
+            z-index: 1;
+            left: 50%;
+            bottom: 15px;
+            font-size: 14px;
+        }
+    
+        #snackbar.show {
+            visibility: visible;
+            -webkit-animation: fadein 0.8s, fadeout 0.8s 4.5s;
+            animation: fadein 0.8s, fadeout 0.8s 4.5s;
+        }
+    
+        @-webkit-keyframes fadein {
+            from {bottom: 0; opacity: 0;} 
+            to {bottom: 15px; opacity: 2;}
+        }
+    
+        @keyframes fadein {
+            from {bottom: 0; opacity: 0;}
+            to {bottom: 15px; opacity: 2;}
+        }
+    
+        @-webkit-keyframes fadeout {
+            from {bottom: 15px; opacity: 2;} 
+            to {bottom: 0; opacity: 0;}
+        }
+    
+        @keyframes fadeout {
+            from {bottom: 15px; opacity: 2;}
+            to {bottom: 0; opacity: 0;}
+        }
+
+.bank {
+	text-align: center !important;
+	width: 145px !important;
+	height: 74px !important;
+	padding: 0px !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+	border: none !important;
+	-webkit-border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	-ms-border-radius: 0px !important;
+	-o-border-radius: 0px !important;
+	border-radius: 0px !important;
+	margin-left: 0 !important;
+}
+
+div.item.bank {
+	height: 94px;
+}
+
+#bank.section .container {
+ background: rgb(0 0 0) !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/Fs9FThKk/BCA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/YCvHP0B0/BNI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/wvpY3kyR/BRI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/C1sT8fkP/CIMB-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/pX6NKv5H/DANA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/nzZNncgv/GOPAY-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/j5Xm2YYB/LINK-AJA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/mkgqFpbk/MANDIRI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/43RS1xJr/OVO-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+}
+
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/sxLnGV6H/BCA-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/j5dv8WBk/BNI-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/brZgh7yx/BRI-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/NfrDPvPY/CIMB-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/W1GnT6vH/DANA-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/hjjbLk7k/GOPAY-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/z3mC13PN/LINKAJA-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/2jgM5wsk/MANDIRI-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .offline {
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/fRNPcbW1/OVO-PROBLEM-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .trouble{
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/qBsWDntj/BCA-OFFLINE-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .trouble{
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/wjyVZ8fg/BNI-OFFLINE-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .trouble{
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/PrLYrbmM/BRI-OFFLINE-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .trouble{
+width: 145px !important;
+height: 74px !important;
+background: url('https://i.postimg.cc/J7FHgy9H/CIMB-OFFLINE-TJ.gif') 0px 0px no-repeat !important;
+background-size: 101% 80% !important;
+}
+
+
+.modal {
+	background-color: rgba(0, 0, 0, .9) !important;
+}
+
+.modal-content {
+	background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.modal-header {
+	border-bottom: 0px !important;
+	height: 0 !important;
+}
+
+.close {
+	color: white !important;
+	opacity: .8 !important;
+}
+
+form .form-control {
+background: #ffffffe6 !important;
+border-radius: 25px !important;
+     }
