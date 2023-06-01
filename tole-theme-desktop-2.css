@@ -78,13 +78,6 @@ box-shadow: rgb(0 0 0 / 90%) 0 32px 62px -2px, rgb(0 0 0 / 90%) 0 30px 32px -3px
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(46) { content:url("https://i.postimg.cc/Df1dqPWy/SICBOBALL.jpg") !important;}/*Sicbo ball*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) { content:url("https://i.postimg.cc/NfY8b2T8/SICBODICE.jpg") !important;}/*Sicbo Dice*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(48) { content:url("https://i.postimg.cc/FsZy6FgM/SUWIT.jpg") !important;}/*Suwit*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(49) { display:none; !important;}/*Nihil*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(50) { display:none; !important;}/*Nihil*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(51) { display:none; !important;}/*Nihil*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(52) { display:none; !important;}/*Nihil*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(53) { display:none; !important;}/*Nihil*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(54) { display:none; !important;}/*Nihil*/
-
 
 
 .owl-carousel.bankscroll  {
