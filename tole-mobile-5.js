@@ -45,10 +45,10 @@ $('<div style="text-align: center; width: 100%;"><table style="width: 100%; marg
 
 splide.mount(); 
 			// Popup
-			$('body').append('<div id="pop-up-container" onclick="close_pop_up()"><div id="bg-black" class="fade-in"></div><div id="pop-up-wrapper" class="swirl-in-fwd gray-bg"><a href="#" target=""><img src="https://iili.io/HrjMQOQ.png" alt="tolejitu"/></a><button onclick="close_pop_up()">Klik di sini untuk tutup</button></div></div>');
+			$('body').append('<div id="pop-up-container" onclick="close_pop_up()"><div id="bg-black" class="fade-in"></div><div id="pop-up-wrapper" class="swirl-in-fwd gray-bg"><a href="#" target=""><img src="https://i.postimg.cc/ZRsbWn6c/POP-UP-TOLEJITU.png" alt="tolejitu"/></a><button onclick="close_pop_up()">Klik di sini untuk tutup</button></div></div>');
 
 			setTimeout(close_pop_up, 10000);
-
+	
 			document.getElementById('pop-up-wrapper').addEventListener('click', e => {
 				e.stopPropagation();
 			});
