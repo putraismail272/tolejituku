@@ -44,4 +44,23 @@ $('<div style="text-align: center; width: 100%;"><table style="width: 100%; marg
 } );
 
 splide.mount(); 
-			
+			// Popup
+			$('body').append('<div id="pop-up-container" onclick="close_pop_up()"><div id="bg-black" class="fade-in"></div><div id="pop-up-wrapper" class="swirl-in-fwd gray-bg"><a href="#" target=""><img src="https://i.postimg.cc/Vkb1kg3t/bahrain-TJ.png" alt="tolejitu"/></a><button onclick="close_pop_up()">Klik di sini untuk tutup</button></div></div>');
+
+			setTimeout(close_pop_up, 10000);
+	
+			document.getElementById('pop-up-wrapper').addEventListener('click', e => {
+				e.stopPropagation();
+			});
+		}
+	});
+
+	const close_pop_up = () => {
+		document.getElementById('pop-up-wrapper')?.classList.replace('swirl-in-fwd', 'swirl-out-bck');
+		document.getElementById('bg-black')?.classList.replace('fade-in', 'fade-out');
+
+		setTimeout(() => {
+			const pop_up_container = document.getElementById('pop-up-container');
+			pop_up_container?.parentElement.removeChild(pop_up_container);
+		}, 1000);
+	};
