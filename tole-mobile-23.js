@@ -44,3 +44,4 @@ $('<div style="text-align: center; width: 100%;"><table style="width: 100%; marg
 } );
 
 splide.mount(); 
+			
