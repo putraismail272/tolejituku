@@ -1,6 +1,7 @@
 // Mobile 
 window.addEventListener('DOMContentLoaded', () => {
-		if (window.location.pathname === '/m/' || window.location.pathname === '/m/index.php') {
+	windowWidth = window.innerWidth;
+if (windowWidth < 600) {
 			$(window).on('load', function () {
      $('.smartb1').addClass('shead');
      $('.smartb2').addClass('sindex');
