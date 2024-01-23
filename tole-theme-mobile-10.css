@@ -69,7 +69,22 @@ text-transform: uppercase;
  box-shadow: inset 0px 0px 0px 1px var(--f-color), inset 0px 2px 0px 0px var(--s-color), inset 0px 0px 0px 2px var(--g1-color), 3px 3px 3px 1px var(--g2-color) !important;
 }
 
+  const buttonQris = '<button class="btn-qrishome" id="buttonQrisOpen">Deposit QRIS</button> <div id="qris" class="qrisPopup" style="display:none;"><div class="modal modal-mobile-qris"><div class="modal-container-mobile-qris"><div class="body"><a href="'+ gambarQris +'" target="event"><img src="'+ gambarQris +'" class="popup-img"></a><div class="modal-header box"><button type="button" class="btn-close close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X TUTUP</span></button></div></div></div></div></div>';
+  
+  wrapper2.insertBefore(ulMenuMobile, loginText);
+  loginText.innerHTML = buttonQris;
 
+    const qrisPopup = document.querySelector("#qris");
+    const buttonQrisOpen = document.querySelector("#buttonQrisOpen");
+    const buttonQrisClose = document.querySelector('.btn-close.close');
+
+ buttonQrisClose.addEventListener('click', () => {
+        qrisPopup.style.display = 'none';
+    })
+
+    buttonQrisOpen.addEventListener('click', () => {
+        qrisPopup.style.display = 'block';   
+    })
 
 
 .main, .inner-wrap {
