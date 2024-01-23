@@ -69,6 +69,56 @@ text-transform: uppercase;
  box-shadow: inset 0px 0px 0px 1px var(--f-color), inset 0px 2px 0px 0px var(--s-color), inset 0px 0px 0px 2px var(--g1-color), 3px 3px 3px 1px var(--g2-color) !important;
 }
 
+.btn-close {
+color: var(--w-color);
+font-weight: bold;
+padding: 0.4rem;
+margin-top: 0.4rem;
+border-radius: 20px;
+background: #db0000;
+}
+
+.btn-qrishome, .button-orange, input[type="text"], input[type="password"], select, textarea
+{
+border-radius: 15px 2px 15px 5px !important;
+}
+
+.modal-mobile-qris .hidden {
+        display:block;
+    }
+
+.popup-img {
+max-width: 100%;
+}
+
+
+    
+    .modal {
+        z-index:10500000 !important;
+    }
+    .modal-mobile-qris {
+        background-color: rgba(0,0,0,0.4); /* Transparent dimmed overlay */
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: table;
+    }
+
+    .modal-mobile-qris .modal-container-mobile-qris {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        width: 200px;
+    }
+
+    .modal-mobile-qris .body {
+        display: inline-block;
+        padding: 10px;
+    }
+
+
   const buttonQris = '<button class="btn-qrishome" id="buttonQrisOpen">Deposit QRIS</button> <div id="qris" class="qrisPopup" style="display:none;"><div class="modal modal-mobile-qris"><div class="modal-container-mobile-qris"><div class="body"><a href="'+ gambarQris +'" target="event"><img src="'+ gambarQris +'" class="popup-img"></a><div class="modal-header box"><button type="button" class="btn-close close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X TUTUP</span></button></div></div></div></div></div>';
   
   wrapper2.insertBefore(ulMenuMobile, loginText);
