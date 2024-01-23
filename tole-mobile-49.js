@@ -34,7 +34,7 @@ $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=buk
 
 // barcode
        $('<div a href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" target="_blank" id="promosix" class="buttonWrap button-blue contactSubmitButton promosix" style="text-align: center;color: #FFFFFF;padding: 10px 26px 10px 26px;display: inline-block;margin-bottom: 10px;font-family: aller;font-size: 20px;border-radius: 7px;">BARCODE QRIS</a></div>').insertBefore($(".wrapper2"));
-
+       $('<div class="buttonjoin"><a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a></div>').insertBefore($(".wrapper2"));
 
 	
 	
