@@ -33,7 +33,6 @@ $('<div class="splide"><div class="splide__track"><ul class="splide__list"><li c
 $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=bukti-jp-member" target="_blank"><img src="https://i.postimg.cc/7Y1Ny2qy/Button-Bukti-JP.jpg" alt="TOGEL"></a><a href=https://prediksitolejitu.com/?page=prediksi-mobile" target="_blank"><img src="https://i.postimg.cc/dVqjQV0Z/Button-Prediksi-Togel.jpg" alt="SLOT"></a><a href="https://tolejitu.net/m/promosi_index.php" target="_blank"><img src="https://i.postimg.cc/cLXMvGK9/Button-Promo.jpg" alt="Carabermain"></a><a href="https://prediksitolejitu.com/?page=slot-gacor" target="_blank"><img src="https://i.postimg.cc/W4zmrYg2/Button-RTP-Slot.jpg" alt="PROMOSI"></a></div>').insertBefore($(".wrapper2"));
 
 // barcode
-       $('<div a href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" target="_blank" id="promosix" class="buttonWrap button-blue contactSubmitButton promosix" style="text-align: center;color: #FFFFFF;padding: 10px 26px 10px 26px;display: inline-block;margin-bottom: 10px;font-family: aller;font-size: 20px;border-radius: 7px;">BARCODE QRIS</a></div>').insertBefore($(".wrapper2"));
        $('<div class="buttonjoin"><a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a></div>').insertBefore($(".wrapper2"));
 
 	
