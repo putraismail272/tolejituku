@@ -34,14 +34,7 @@ $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=buk
 
 
 // qris
-$('.wrapper2').append('<div class="buttonjoin"> 
-		      <a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a> 	
-	</div>');
-
-<div class="buttonjoin">
-<a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a>
-</div>
-
+<div class="note center"><button class="btn-qrishome" id="buttonQrisOpen">Deposit QRIS</button> <div id="qris" class="qrisPopup" style="display: none;"><div class="modal modal-mobile-qris"><div class="modal-container-mobile-qris"><div class="body"><a href="https://i.postimg.cc/G2rSJxg5/QRIS-GT-NEW.png" target="event"><img src="https://i.postimg.cc/G2rSJxg5/QRIS-GT-NEW.png" class="popup-img"></a><div class="modal-header box"><button type="button" class="btn-close close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X TUTUP</span></button></div></div></div></div></div></div>
 	
 	
 // Icon Sosmed
