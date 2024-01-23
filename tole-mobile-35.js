@@ -32,6 +32,13 @@ $('<div class="splide"><div class="splide__track"><ul class="splide__list"><li c
 // icon List Mobile
 $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=bukti-jp-member" target="_blank"><img src="https://i.postimg.cc/7Y1Ny2qy/Button-Bukti-JP.jpg" alt="TOGEL"></a><a href=https://prediksitolejitu.com/?page=prediksi-mobile" target="_blank"><img src="https://i.postimg.cc/dVqjQV0Z/Button-Prediksi-Togel.jpg" alt="SLOT"></a><a href="https://tolejitu.net/m/promosi_index.php" target="_blank"><img src="https://i.postimg.cc/cLXMvGK9/Button-Promo.jpg" alt="Carabermain"></a><a href="https://prediksitolejitu.com/?page=slot-gacor" target="_blank"><img src="https://i.postimg.cc/W4zmrYg2/Button-RTP-Slot.jpg" alt="PROMOSI"></a></div>').insertBefore($(".wrapper2"));
 
+
+// qris
+<div class="buttonjoin">
+<a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a>
+</div>
+
+	
 	
 // Icon Sosmed
 $('<div style="text-align: center; width: 100%;"><table style="width: 100%; margin-left: auto; margin-right: auto;"><tr><td colspan="4" style="width: 100%; text-align: center;">Klik untuk hubungi customer service kami :</td></tr><tr><td colspan="1" style="width: 25%; text-align: center;"><a href="https://api.whatsapp.com/send?phone=6282181130473&text=&source=&data=" target="_blank"><img src="https://i.postimg.cc/rmV0xx7z/WA-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="https://www.facebook.com/groups/tolejitu" target="_blank"><img src="https://i.postimg.cc/05tmGXkv/FB-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="#instgram" target="_blank"><img src="https://i.postimg.cc/2SWZDz4j/Instagram-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="https://twitter.com/TOLEJITU" target="_blank"><img src="https://i.postimg.cc/DzKbftgr/TW-TJ.gif" style="width: 100%; height: auto;" /></a></td></tr></table></div>').appendTo('.wrapper2');
