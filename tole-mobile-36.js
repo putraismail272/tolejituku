@@ -34,9 +34,9 @@ $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=buk
 
 
 // qris
-<div class="buttonjoin">
+$('.wrapper2').append('<div class="buttonjoin">
 <a target="_blank" href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" class="buttonWrap buttong button-orange contactSubmitButton">Barcode Qris</a>
-</div>
+	</div>');
 
 	
 	
