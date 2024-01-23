@@ -34,9 +34,10 @@ $('<div class="list-menu-mobile"><a href="https://prediksitolejitu.com/?page=buk
 
 
 // barcode qris
-<div class="buttonjoin">
+$('<div class="buttonjoin">
               <a href="https://i.postimg.cc/pdZdZy1R/ID1023307768425-1.png" target="_blank" id="promosix" class="buttonWrap button-blue contactSubmitButton promosix" style="text-align: center;color: #FFFFFF;padding: 10px 26px 10px 26px;display: inline-block;margin-bottom: 10px;font-family: aller;font-size: 20px;border-radius: 7px;">BARCODE QRIS</a>
             </div>
+	').insertBefore($(".wrapper2"));
 	
 // Icon Sosmed
 $('<div style="text-align: center; width: 100%;"><table style="width: 100%; margin-left: auto; margin-right: auto;"><tr><td colspan="4" style="width: 100%; text-align: center;">Klik untuk hubungi customer service kami :</td></tr><tr><td colspan="1" style="width: 25%; text-align: center;"><a href="https://api.whatsapp.com/send?phone=6282181130473&text=&source=&data=" target="_blank"><img src="https://i.postimg.cc/rmV0xx7z/WA-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="https://www.facebook.com/groups/tolejitu" target="_blank"><img src="https://i.postimg.cc/05tmGXkv/FB-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="#instgram" target="_blank"><img src="https://i.postimg.cc/2SWZDz4j/Instagram-TJ.gif" style="width: 100%; height: auto;" /></a></td><td colspan="1" style="width: 25%; text-align: center;"><a href="https://twitter.com/TOLEJITU" target="_blank"><img src="https://i.postimg.cc/DzKbftgr/TW-TJ.gif" style="width: 100%; height: auto;" /></a></td></tr></table></div>').appendTo('.wrapper2');
