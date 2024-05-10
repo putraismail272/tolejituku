@@ -26,7 +26,7 @@ $("#close_button").click(function(){
 $('<table style="font-size: 13px;border: none;margin-bottom: -14px;margin-top: -10px;"><tbody><tr><td style="text-align: center;padding: 0px 2px 5px 5px;font-size: 11px;background: #b90b1f; border: none;"><i class="fas fa-bullhorn"></i></td><td style="background: #252525;border: none;"><marquee>SELAMAT DATANG DI TOLEJITU- SITUS AGEN TOTO ONLINE JITU TERPERCAYA - SELAMAT BERGABUNG DAN SEMOGA BERUNTUNG</marquee></td></tr></tbody></table>').insertBefore($('.wrapper2'));
 
 // Slider
-$('<div class="splide"><div class="splide__track"><ul class="splide__list"><li class="splide__slide"><img src="https://i.postimg.cc/fysXNhP7/msg6453150546-6617.jpg" style="width: 100%;" /></li><li class="splide__slide"><img src="https://i.postimg.cc/FH3GrtpC/Slider-All-Promo.jpg" style="width: 100%;" /></li><li class="splide__slide"><img src="https://i.postimg.cc/PqM4DmBm/Slider-Xtra-TO.jpg" style="width: 100%;" /></li></ul></div><div class="splide__progress"><div class="splide__progress__bar"></div></div>').insertBefore($('.wrapper2'));
+$('<div class="splide"><div class="splide__track"><ul class="splide__list"><li class="splide__slide"><img src="https://i.postimg.cc/fysXNhP7/msg6453150546-6617.jpg" style="width: 100%;" /></li><li class="splide__slide"><img src="https://i.postimg.cc/FH3GrtpC/Slider-All-Promo.jpg" style="width: 100%;" /></li><li class="splide__slide"><img src="https://i.postimg.cc/PqM4DmBm/Slider-Xtra-TO.jpg" style="width: 100%;" /></li></ul></div><div class="splide__progress"><div class="splide__progress__bar"></div></div></div>').insertBefore($('.wrapper2'));
 
 
 // icon List Mobile
