@@ -30,7 +30,7 @@ $('<div class="splide"><div class="splide__track"><ul class="splide__list"><li c
 
 
 // icon List Mobile
-$('<div class="list-menu-mobile"><a href="https://prediksitolekeren.xyz/?page=bukti-jp-member" target="_blank"><img src="https://i.postimg.cc/7Y1Ny2qy/Button-Bukti-JP.jpg" alt="TOGEL"></a><a href=https://prediksitolekeren.xyz/?page=prediksi-togel" target="_blank"><img src="https://i.postimg.cc/dVqjQV0Z/Button-Prediksi-Togel.jpg" alt="SLOT"></a><a href="https://tolemakan.xyz/m/promosi_index.php" target="_blank"><img src="https://i.postimg.cc/cLXMvGK9/Button-Promo.jpg" alt="Carabermain"></a><a href="https://prediksitolekeren.xyz/?page=slot-gacor" target="_blank"><img src="https://i.postimg.cc/W4zmrYg2/Button-RTP-Slot.jpg" alt="PROMOSI"></a></div>').insertBefore($(".wrapper2"));
+$('<div class="list-menu-mobile"><a href="https://prediksitolekeren.xyz/?page=bukti-jp-member" target="_blank"><img src="https://i.postimg.cc/7Y1Ny2qy/Button-Bukti-JP.jpg" alt="TOGEL"></a><a href=https://prediksitolekeren.xyz/?page=prediksi-togel" target="_blank"><img src="https://i.postimg.cc/dVqjQV0Z/Button-Prediksi-Togel.jpg" alt="SLOT"></a><a href="https://tolekardus.org/m/promosi_index.php" target="_blank"><img src="https://i.postimg.cc/cLXMvGK9/Button-Promo.jpg" alt="Carabermain"></a><a href="https://prediksitolekeren.xyz/?page=slot-gacor" target="_blank"><img src="https://i.postimg.cc/W4zmrYg2/Button-RTP-Slot.jpg" alt="PROMOSI"></a></div>').insertBefore($(".wrapper2"));
 	
 	
 // Icon Sosmed
