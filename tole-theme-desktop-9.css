@@ -264,55 +264,61 @@ div.item.bank {
 .owl-wrapper .owl-item:nth-child(1) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/Fs9FThKk/BCA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BCA_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(2) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/YCvHP0B0/BNI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BNI_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(3) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/wvpY3kyR/BRI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BRI_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(4) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/C1sT8fkP/CIMB-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/MANDIRI_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(5) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/pX6NKv5H/DANA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/DANA_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(6) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/j5Xm2YYB/LINK-AJA-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/OVO_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(7) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/mkgqFpbk/MANDIRI-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/GOPAY_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(8) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.postimg.cc/43RS1xJr/OVO-ONLINE-TJ.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/LINK_AJA_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(9) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://i.gyazo.com/0cf666c7bf21c8a56591b9c68b096907.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/NEOBANK_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/SEABANK_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 .owl-wrapper .owl-item:nth-child(10) .bank .online {
@@ -324,7 +330,109 @@ background: url('https://gyazo.com/38631fa7ce46833c54f01a76edc42254.gif') 0px 0p
 .owl-wrapper .owl-item:nth-child(11) .bank .online {
 width: 145px !important;
 height: 74px !important;
-background: url('https://iili.io/FG0VirB.gif') 0px 0px no-repeat !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/ALLOBANK_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(12) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BANK_JAGO_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(13) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/SUPERBANK_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(14) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BLUBCA_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(15) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BNIWONDER_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(16) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/BSI_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(17) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/CIMB_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(18) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/DANAMON_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(19) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/MAYBANK_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(20) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/MEGA_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(21) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/NOBUBANK_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(22) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/OCBC_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(23) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/PANIN_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(24) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/PERMATA_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(25) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/SHOPEEPAY_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(26) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/SINARMAS_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(27) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/UOB_ONLINE.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(28) .bank .online {
+width: 145px !important;
+height: 74px !important;
+background: url('https://banner-gdn.com/images/ALLWEB/TOLEJITU/ICON%20BANK%20TJ%20NEW/ONLINE/PULSA_ONLINE.gif') 0px 0px no-repeat !important;
 }
 
 
